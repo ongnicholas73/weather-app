@@ -1,0 +1,39 @@
+.weather-info {
+    color: rgb(168, 168, 168);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 24px;
+    
+}
+
+.titles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:auto
+}
+
+#city-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    margin: 8px auto;
+}
+
+#submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    margin: auto;
+    background-color: rgb(66, 81, 218);
+    color: aliceblue;
+}
+
+.item {
+    margin: 16px 0px;
+}
+
