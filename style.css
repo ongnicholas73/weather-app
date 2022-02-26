@@ -1,9 +1,9 @@
-.weather-info {
+.weather-info{
     color: rgb(168, 168, 168);
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-top: 24px;
+    margin: auto;
     
 }
 
@@ -34,6 +34,10 @@
 }
 
 .item {
-    margin: 16px 0px;
+    margin: 8px 0px;
+}
+
+.weather-app{
+    margin-top: 175px;
 }
 
