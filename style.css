@@ -1,10 +1,11 @@
 .weather-info{
-    color: rgb(168, 168, 168);
+    color: rgb(92, 92, 92);
     display: flex;
     flex-direction: column;
     text-align: center;
     margin: auto;
-    
+    background-color: rgb(124, 238, 253);
+    width: 350px;
 }
 
 .titles{
@@ -37,7 +38,10 @@
     margin: 8px 0px;
 }
 
-.weather-app{
-    margin-top: 175px;
+body {
+    background-image: url(https://media.istockphoto.com/photos/weather-forecast-concept-picture-id531889697?k=20&m=531889697&s=170667a&w=0&h=DH9uBMxKt4WIjLA__q4cPFt21A4Wlc4kDdFSK5a7D7g=);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 175px
 }
-
